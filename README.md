@@ -25,7 +25,7 @@ Este projeto foi desenvolvido em meus estudos, com o propósito de aprender e au
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
--  [Typescript](https://www.typescriptlang.org/)
+-  [JavaScrypt](https://www.javascript.com/)
 
 ## :information_source: Como usar
 
