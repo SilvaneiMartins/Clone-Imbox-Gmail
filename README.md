@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Layout responsivo do Clone Imbox Gmail usando JavaScrypt
+  Layout responsivo do Clone Imbox Gmail usando TypeScript
 </h4>
 
 <p align="center">
@@ -21,11 +21,11 @@
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido em meus estudos, com o propósito de aprender e aumentar mais meus conhecimentos a montar um layout responsivo utilizando JavaScrypt. Eu utizei as tecnologias logo abaixo:
+Este projeto foi desenvolvido em meus estudos, com o propósito de aprender e aumentar mais meus conhecimentos a montar um layout responsivo utilizando TypeScript. Eu utizei as tecnologias logo abaixo:
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
--  [JavaScrypt](https://www.javascript.com/)
+-  [TypeScript](https://www.typescriptlang.org/)
 
 ## :information_source: Como usar
 
